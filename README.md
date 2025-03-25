@@ -19,5 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rheyya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rheyya/rheyya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rheyya/rheyya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rheyya/rheyya/output/github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
